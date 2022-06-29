@@ -1,2 +1,2 @@
 # Sudokusolver
-Python-programm to solve sudokus with backtracking
+Solve sudokus with backtracking
